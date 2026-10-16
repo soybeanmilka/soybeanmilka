@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ═══════════ 打字机横幅 ═══════════ -->
+<!-- ═══════════ 打字机横幅（多行模式，给中文留足高度） ═══════════ -->
 <a href="https://github.com/soybeanmilka">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=900&color=D9A441&background=FFFBEB00&center=true&vCenter=true&multiline=false&width=620&height=70&lines=%F0%9F%A5%9B+%E6%88%91%E6%98%AF%E8%B1%86%E6%B5%86+%2F+Hi%2C+I%27m+Doujiang;%E5%9C%A8+USTB+%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A6%E7%94%9F;%E9%BC%93%E6%8D%A3+C%2B%2B+%26+Python;%E5%96%9C%E6%AC%A2%E6%8A%8A%E7%90%90%E7%A2%8E%E7%9A%84%E6%83%B3%E6%B3%95%E5%86%99%E6%88%90%E8%83%BD%E8%B7%91%E7%9A%84%E4%B8%9C%E8%A5%BF;%E6%AD%A3%E5%9C%A8%E6%8D%A3%E8%85%BE+DeepSeek+Harness+%E6%8F%92%E4%BB%B6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=D9A441&background=FFFBEB00&center=true&vCenter=true&multiline=true&width=700&height=110&lines=%F0%9F%A5%9B+%E6%88%91%E6%98%AF%E8%B1%86%E6%B5%86+%2F+Hi%2C+I%27m+Doujiang;&#37;E5%9C%A8+USTB+%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A6%E7%94%9F+%C2%B7+%E9%BC%93%E6%8D%A3+C%2B%2B+%26+Python;%E6%AD%A3%E5%9C%A8%E6%8D%A3%E8%85%BE+DeepSeek+Harness+%E6%8F%92%E4%BB%B6" alt="Typing SVG" />
 </a>
 
 <!-- ═══════════ 副标题 ═══════════ -->
@@ -38,12 +38,12 @@
 </h2>
 
 ```yaml
-name:       豆浆 (Doujiang)
-location:   北京 · 北京科技大学在读
-focus:      C++ / Python · AI Agent · 知识管理工具
-belief:     工具不该让人更累，它应该把重复劳动吃掉
-now:        DeepSeek Harness 插件开发 · 多平台 Markdown 发布链路
-blog:       https://soybeanmilka.github.io/my_blog_show/
+name:     豆浆 (Doujiang)
+where:    北京科技大学 · 在读
+focus:    C++ / Python · AI Agent · 知识管理工具
+belief:   工具不该让人更累，它应该把重复劳动吃掉
+now:      DeepSeek Harness 插件 · 多平台 Markdown 发布链路
+blog:     soybeanmilka.github.io/my_blog_show
 ```
 
 <br/>
@@ -103,7 +103,7 @@ blog:       https://soybeanmilka.github.io/my_blog_show/
   <img src="https://streak-stats.demolab.com?user=soybeanmilka&hide_border=true&background=00000000&stroke=D9A441&ring=D9A441&fire=E8A33D&currStreakLabel=B8860B&sideLabels=4A3B18&dates=8A7550&currStreakNum=7A5C10&sideNums=7A5C10" alt="Streak Stats" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <!-- ═══════════ 全年贡献热力图（可点击跳转） ═══════════ -->
 <a href="https://github.com/soybeanmilka">
@@ -122,11 +122,11 @@ blog:       https://soybeanmilka.github.io/my_blog_show/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soybeanmilka&theme=github_dark&utcOffset=8" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soybeanmilka&theme=github&utcOffset=8" alt="Productive Time" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soybeanmilka&theme=github&utcOffset=8" alt="Productive Time" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soybeanmilka&theme=github_dark" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soybeanmilka&theme=github" alt="Repos per Language" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soybeanmilka&theme=github" alt="Repos per Language" />
 </picture>
 
 </div>
