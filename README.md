@@ -13,7 +13,10 @@
   <img src="https://img.shields.io/badge/%F0%9F%8F%A0_%E5%8C%97%E4%BA%AC%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-Computer_Science-D9A441?style=flat-square&labelColor=FFFBEB" alt="USTB" />
 </picture>
 <a href="https://soybeanmilka.github.io/my_blog_show/"><img src="https://img.shields.io/badge/%F0%9F%8F%A1_%E8%B1%86%E6%B5%86%E5%B0%8F%E5%B1%8B-Online-5B8C5A?style=flat-square&labelColor=FFFBEB" alt="Blog" /></a>
-<img src="https://komarev.com/ghpvc/?username=soybeanmilka&label=%E8%AE%BF%E5%AE%A2&color=D9A441&style=flat-square" alt="Visitors" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=soybeanmilka&label=%E8%AE%BF%E5%AE%A2&color=E8A33D&labelColor=3D2E14&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=soybeanmilka&label=%E8%AE%BF%E5%AE%A2&color=D9A441&labelColor=FFFBEB&style=flat-square" alt="Visitors" />
+</picture>
 
 <br/><br/>
 
