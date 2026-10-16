@@ -193,8 +193,8 @@ blog:     soybeanmilka.github.io/my_blog_show
 <div align="center">
 
 <a href="https://soybeanmilka.github.io/my_blog_show/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E8%B1%86%E6%B5%86%E5%B0%8F%E5%B1%8B-D9A441?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
-<a href="https://github.com/soybeanmilka?tab=followers"><img src="https://img.shields.io/github/followers/soybeanmilka?style=for-the-badge&logo=github&color=D9A441&labelColor=3D2E14" alt="Followers" /></a>
-<a href="https://github.com/soybeanmilka?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-19-D9A441?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+<a href="https://github.com/soybeanmilka?tab=followers"><img src="https://komarev.com/ghpvc/?username=soybeanmilka&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=D9A441&style=for-the-badge" alt="Followers" /></a>
+<a href="https://github.com/soybeanmilka?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-19%20%E4%B8%AA-D9A441?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
 
 </div>
 
