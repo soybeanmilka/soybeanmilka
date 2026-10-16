@@ -1,0 +1,37 @@
+name: Generate Snake
+
+on:
+  # 每 12 小时自动跑一次（UTC 0:00 和 12:00）
+  schedule:
+    - cron: "0 */12 * * *"
+  # 允许手动触发
+  workflow_dispatch:
+  # 推送到 main 时也刷新一次
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
