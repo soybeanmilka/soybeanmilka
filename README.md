@@ -105,10 +105,29 @@ blog:       https://soybeanmilka.github.io/my_blog_show/
 
 <br/><br/>
 
-<!-- ═══════════ 活跃度热力图（大图，带缩放动效） ═══════════ -->
+<!-- ═══════════ 全年贡献热力图（可点击跳转） ═══════════ -->
 <a href="https://github.com/soybeanmilka">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soybeanmilka&bg_color=FFFBEB00&color=D9A441&line=E8A33D&point=B8860B&area=true&area_color=D9A441&hide_border=true&custom_title=%E8%B1%86%E6%B5%86%E7%9A%84%E6%8F%90%E4%BA%A4%E8%BD%A8%E8%BF%B9" alt="Activity Graph" />
+  <img width="100%" src="https://ghchart.rshah.org/D9A441/soybeanmilka" alt="豆浆的全年贡献热力图" />
 </a>
+
+<br/><br/>
+
+<!-- ═══════════ 详细档案卡（自动跟随明暗模式） ═══════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soybeanmilka&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soybeanmilka&theme=github" alt="Profile Details" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soybeanmilka&theme=github_dark&utcOffset=8" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soybeanmilka&theme=github&utcOffset=8" alt="Productive Time" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soybeanmilka&theme=github_dark" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soybeanmilka&theme=github" alt="Repos per Language" />
+</picture>
 
 </div>
 
