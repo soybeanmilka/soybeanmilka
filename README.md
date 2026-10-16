@@ -3,8 +3,8 @@
 <!-- ═══════════ 打字机横幅 ═══════════
      浅色模式用琥珀字，深色模式换成亮金，两边都看得清 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFD98A&background=1A1611&center=true&vCenter=true&multiline=true&width=700&height=110&lines=%F0%9F%A5%9B+%E6%88%91%E6%98%AF%E8%B1%86%E6%B5%86+%2F+Hi%2C+I%27m+Doujiang;&%E5%9C%A8+USTB+%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A6%E7%94%9F+%C2%B7+%E9%BC%93%E6%8D%A3+C%2B%2B+%26+Python;%E6%AD%A3%E5%9C%A8%E6%8D%A3%E8%85%BE+DeepSeek+Harness+%E6%8F%92%E4%BB%B6" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=B8860B&background=FFFBEB&center=true&vCenter=true&multiline=true&width=700&height=110&lines=%F0%9F%A5%9B+%E6%88%91%E6%98%AF%E8%B1%86%E6%B5%86+%2F+Hi%2C+I%27m+Doujiang;&%E5%9C%A8+USTB+%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A6%E7%94%9F+%C2%B7+%E9%BC%93%E6%8D%A3+C%2B%2B+%26+Python;%E6%AD%A3%E5%9C%A8%E6%8D%A3%E8%85%BE+DeepSeek+Harness+%E6%8F%92%E4%BB%B6" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFD98A&background=1A1611&center=true&vCenter=true&multiline=true&width=880&height=120&lines=%F0%9F%A5%9B+%E6%88%91%E6%98%AF%E8%B1%86%E6%B5%86+%2F+Hi%2C+I%27m+Doujiang;&%E5%9C%A8+USTB+%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A6%E7%94%9F+%C2%B7+%E9%BC%93%E6%8D%A3+C%2B%2B+%26+Python;%E6%AD%A3%E5%9C%A8%E6%8D%A3%E8%85%BE+DeepSeek+Harness+%E6%8F%92%E4%BB%B6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B8860B&background=FFFBEB&center=true&vCenter=true&multiline=true&width=880&height=120&lines=%F0%9F%A5%9B+%E6%88%91%E6%98%AF%E8%B1%86%E6%B5%86+%2F+Hi%2C+I%27m+Doujiang;&%E5%9C%A8+USTB+%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A6%E7%94%9F+%C2%B7+%E9%BC%93%E6%8D%A3+C%2B%2B+%26+Python;%E6%AD%A3%E5%9C%A8%E6%8D%A3%E8%85%BE+DeepSeek+Harness+%E6%8F%92%E4%BB%B6" alt="Typing SVG" />
 </picture>
 
 <!-- ═══════════ 副标题 ═══════════ -->
