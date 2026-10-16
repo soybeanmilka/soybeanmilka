@@ -14,17 +14,17 @@
   <path d="M0,30 C150,8 300,52 450,30 C600,8 750,52 900,30 C1050,8 1150,44 1200,30"
         fill="none" stroke="url(#grad)" stroke-width="1.2" opacity="0.35"/>
 
-  <!-- 流动主波：靠 stroke-dashoffset 动画产生「波在走」的效果 -->
+  <!-- 流动主波：dasharray 与路径总长对齐，避免右侧露毛刺 -->
   <path id="wave" d="M0,30 C150,8 300,52 450,30 C600,8 750,52 900,30 C1050,8 1150,44 1200,30"
         fill="none" stroke="url(#grad)" stroke-width="2.4" stroke-linecap="round"
-        stroke-dasharray="90 46">
+        stroke-dasharray="136 136">
     <animate attributeName="stroke-dashoffset" from="0" to="-272" dur="7s" repeatCount="indefinite"/>
   </path>
 
-  <!-- 反向流动的次级波，制造层次 -->
+  <!-- 反向流动的次级波 -->
   <path d="M0,30 C200,50 350,12 550,30 C750,48 900,12 1200,30"
         fill="none" stroke="url(#grad)" stroke-width="1.5" stroke-linecap="round"
-        opacity="0.6" stroke-dasharray="40 70">
+        opacity="0.6" stroke-dasharray="110 110">
     <animate attributeName="stroke-dashoffset" from="0" to="220" dur="9s" repeatCount="indefinite"/>
   </path>
 
