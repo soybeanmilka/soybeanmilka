@@ -90,7 +90,7 @@ blog:     soybeanmilka.github.io/my_blog_show
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soybeanmilka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD98A&icon_color=E8A33D&text_color=E8DCC0&bg_color=1A1611&rank_icon=github" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soybeanmilka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox&bg_color=1A1611&rank_icon=github&custom_title=%E8%B1%86%E6%B5%86%E7%9A%84%20GitHub%20%E6%95%B0%E6%8D%AE" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=soybeanmilka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=B8860B&icon_color=D9A441&text_color=4A3B18&bg_color=FFFBEB&rank_icon=github" alt="GitHub Stats" />
 </picture>
 <picture>
@@ -107,10 +107,11 @@ blog:     soybeanmilka.github.io/my_blog_show
 
 <br/>
 
-<!-- ═══════════ 全年贡献热力图（可点击跳转） ═══════════ -->
-<a href="https://github.com/soybeanmilka">
+<!-- ═══════════ 全年贡献热力图（跟随明暗模式） ═══════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/FFD98A/soybeanmilka" />
   <img width="100%" src="https://ghchart.rshah.org/D9A441/soybeanmilka" alt="豆浆的全年贡献热力图" />
-</a>
+</picture>
 
 <br/><br/>
 
