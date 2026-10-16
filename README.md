@@ -70,8 +70,8 @@ blog:       https://soybeanmilka.github.io/my_blog_show/
 **📖 [中文 C 标准库文档](https://github.com/soybeanmilka/zeal-c-docsets-zh)**
 > 配合 Zeal + VS Code Dash，在编辑器里 `Ctrl+H` 直接弹出 `fopen`、`printf` 的中文文档。
 
-**🤖 [soybeanAgent](https://github.com/soybeanmilka/soybeanAgent)**
-> 个人 AI Agent 实验田，边做边学 RAG 与工具调用。
+**🤖 DeepSeek Harness 插件开发**
+> 在折腾 DSH 的插件体系：把日常重复的操作（发布、整理笔记、批量改仓库）都写成插件自动跑。
 
 </td>
 </tr>
@@ -168,23 +168,6 @@ blog:       https://soybeanmilka.github.io/my_blog_show/
 <br/>
 
 <!-- ═══════════════════════════════════════════
-     贡献蛇  Snake
-     ═══════════════════════════════════════════ -->
-
-<h2 align="center">🐍&nbsp; 贪吃蛇吃掉我的贡献格</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soybeanmilka/soybeanmilka/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/soybeanmilka/soybeanmilka/output/github-snake.svg" alt="Snake animation" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════
      随机一言  Quote
      ═══════════════════════════════════════════ -->
 
@@ -221,5 +204,4 @@ blog:       https://soybeanmilka.github.io/my_blog_show/
 <br/>
 
 <sub><i>「 慢慢来，比较快。 」</i></sub>
-<sub>　·　README 由 <a href="https://github.com/soybeanmilka/soybeanmilka/actions">GitHub Actions</a> 每日自动更新</sub>
 </div>
