@@ -1,2 +1,3 @@
-.github/workflows/snake.yml
 _preview/
+_payload.json
+_push.py
