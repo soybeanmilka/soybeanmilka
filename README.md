@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- ═══════════ 打字机横幅（多行模式，给中文留足高度） ═══════════ -->
-<a href="https://github.com/soybeanmilka">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=D9A441&background=FFFBEB00&center=true&vCenter=true&multiline=true&width=700&height=110&lines=%F0%9F%A5%9B+%E6%88%91%E6%98%AF%E8%B1%86%E6%B5%86+%2F+Hi%2C+I%27m+Doujiang;&#37;E5%9C%A8+USTB+%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A6%E7%94%9F+%C2%B7+%E9%BC%93%E6%8D%A3+C%2B%2B+%26+Python;%E6%AD%A3%E5%9C%A8%E6%8D%A3%E8%85%BE+DeepSeek+Harness+%E6%8F%92%E4%BB%B6" alt="Typing SVG" />
-</a>
+<!-- ═══════════ 打字机横幅 ═══════════
+     浅色模式用琥珀字，深色模式换成亮金，两边都看得清 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFD98A&background=1A1611&center=true&vCenter=true&multiline=true&width=700&height=110&lines=%F0%9F%A5%9B+%E6%88%91%E6%98%AF%E8%B1%86%E6%B5%86+%2F+Hi%2C+I%27m+Doujiang;&%E5%9C%A8+USTB+%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A6%E7%94%9F+%C2%B7+%E9%BC%93%E6%8D%A3+C%2B%2B+%26+Python;%E6%AD%A3%E5%9C%A8%E6%8D%A3%E8%85%BE+DeepSeek+Harness+%E6%8F%92%E4%BB%B6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=B8860B&background=FFFBEB&center=true&vCenter=true&multiline=true&width=700&height=110&lines=%F0%9F%A5%9B+%E6%88%91%E6%98%AF%E8%B1%86%E6%B5%86+%2F+Hi%2C+I%27m+Doujiang;&%E5%9C%A8+USTB+%E8%AF%BB%E4%B9%A6%E7%9A%84%E5%AD%A6%E7%94%9F+%C2%B7+%E9%BC%93%E6%8D%A3+C%2B%2B+%26+Python;%E6%AD%A3%E5%9C%A8%E6%8D%A3%E8%85%BE+DeepSeek+Harness+%E6%8F%92%E4%BB%B6" alt="Typing SVG" />
+</picture>
 
 <!-- ═══════════ 副标题 ═══════════ -->
 <picture>
@@ -88,19 +90,19 @@ blog:     soybeanmilka.github.io/my_blog_show
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soybeanmilka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=D9A441&icon_color=D9A441&text_color=C9A227&bg_color=00000000&rank_icon=github" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=soybeanmilka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=B8860B&icon_color=D9A441&text_color=4A3B18&bg_color=00000000&rank_icon=github" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soybeanmilka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD98A&icon_color=E8A33D&text_color=E8DCC0&bg_color=1A1611&rank_icon=github" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=soybeanmilka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=B8860B&icon_color=D9A441&text_color=4A3B18&bg_color=FFFBEB&rank_icon=github" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soybeanmilka&layout=compact&langs_count=8&hide_border=true&title_color=D9A441&text_color=C9A227&bg_color=00000000&hide=html,css" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soybeanmilka&layout=compact&langs_count=8&hide_border=true&title_color=B8860B&text_color=4A3B18&bg_color=00000000&hide=html,css" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soybeanmilka&layout=compact&langs_count=8&hide_border=true&title_color=FFD98A&text_color=E8DCC0&bg_color=1A1611&hide=html,css" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soybeanmilka&layout=compact&langs_count=8&hide_border=true&title_color=B8860B&text_color=4A3B18&bg_color=FFFBEB&hide=html,css" alt="Top Languages" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=soybeanmilka&hide_border=true&background=00000000&stroke=D9A441&ring=D9A441&fire=E8A33D&currStreakLabel=D9A441&sideLabels=C9A227&dates=A8865A&currStreakNum=FFE9B0&sideNums=FFE9B0" />
-  <img src="https://streak-stats.demolab.com?user=soybeanmilka&hide_border=true&background=00000000&stroke=D9A441&ring=D9A441&fire=E8A33D&currStreakLabel=B8860B&sideLabels=4A3B18&dates=8A7550&currStreakNum=7A5C10&sideNums=7A5C10" alt="Streak Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=soybeanmilka&hide_border=true&background=1A1611&stroke=E8A33D&ring=FFD98A&fire=E8A33D&currStreakLabel=FFD98A&sideLabels=E8DCC0&dates=9C8B6E&currStreakNum=FFD98A&sideNums=FFD98A" />
+  <img src="https://streak-stats.demolab.com?user=soybeanmilka&hide_border=true&background=FFFBEB&stroke=D9A441&ring=B8860B&fire=E8A33D&currStreakLabel=B8860B&sideLabels=4A3B18&dates=8A7550&currStreakNum=7A5C10&sideNums=7A5C10" alt="Streak Stats" />
 </picture>
 
 <br/>
