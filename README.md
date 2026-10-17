@@ -21,7 +21,7 @@
 <br/><br/>
 
 <!-- ═══════════ 一句话自我介绍 ═══════════ -->
-<em>「 把复杂的知识，煮成一碗好懂的豆浆。 」</em>
+<em>code weaves world</em>
 
 <br/><br/>
 
@@ -43,18 +43,17 @@
 </h2>
 
 ```yaml
-name:     豆浆 (Doujiang)
-where:    北京科技大学 · 在读
-focus:    C++ / Python · AI Agent · 知识管理工具
-belief:   工具不该让人更累，它应该把重复劳动吃掉
-now:      DeepSeek Harness 插件 · 多平台 Markdown 发布链路
+name:     豆浆 (Soybeanmilk)
+where:    USTB
+focus:    C++ / Python · AI Agent
+belief:   Attention is all you need.
 blog:     soybeanmilka.github.io/my_blog_show
 ```
 
 <br/>
 
 <!-- ═══════════════════════════════════════════
-     我在做什么  Now
+     Now
      ═══════════════════════════════════════════ -->
 
 <h2 align="center">🔨&nbsp; 我在做什么 · Now</h2>
