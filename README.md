@@ -7,6 +7,8 @@
 - 👨‍💻 All of my projects are available at **[https://soybeanmilk.netlify.app](https://soybeanmilk.netlify.app)**
 
 - 📝 I regularly write articles on **[https://blog.csdn.net/2604_95052995?spm=1011.2415.3001.5343](https://blog.csdn.net/2604_95052995?spm=1011.2415.3001.5343)**
+ 
+- 🐖 contact me: M202620174@xs.ustb.edu.cn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
