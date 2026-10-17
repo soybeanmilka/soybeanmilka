@@ -1,9 +1,5 @@
 # Hi 👋, I'm 豆浆
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soybeanmilka&label=Profile views&color=0e75b6&style=flat" alt="soybeanmilka" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soybeanmilka" alt="soybeanmilka" /></a> </p>
-
 - 🌱 I'm currently learning **Go/typescript/Rust**
 
 - ⚡ Fun fact **MeowMeow OWO**
